@@ -1,0 +1,19 @@
+{
+  "name": "associations",
+  "version": "1.0.0",
+  "description": "learn about associations",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mike-mbugua/associations.git"
+  },
+  "author": "michael",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mike-mbugua/associations/issues"
+  },
+  "homepage": "https://github.com/mike-mbugua/associations#readme"
+}
